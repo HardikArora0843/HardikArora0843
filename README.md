@@ -1,9 +1,10 @@
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding Animation" />
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="340" alt="Astonished Developer Animation" />
 </p>
 
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+
+<h1 align="center">Hi, I'm Hardik Arora👋</h1>
 <p align="center">
   <b>Curious mind. Relentless builder. Driven by impact.</b>
 </p>
@@ -22,7 +23,6 @@ I thrive at the intersection of curiosity, innovation, and purpose-driven develo
 - 🧩 **Problem Solver:** I love tackling complex challenges and transforming ideas into tangible solutions.
 - 📚 **Lifelong Learner:** The tech world never stands still, and neither do I. I’m always exploring new horizons.
 - 🌍 **Impact-Driven:** Passionate about civic tech, education, and governance-using technology to uplift communities.
-- 🤖 **Innovator:** AI, AR, and smart, user-centric products fascinate me.
 - 🛠️ **Self-Driven:** My path is project-based, fueled by curiosity and a desire to make a difference.
 
 ---
