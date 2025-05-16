@@ -1,8 +1,7 @@
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="340" alt="Astonished Developer Animation" />
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="340" alt="Anime Developer GIF" />
 </p>
-
 
 <h1 align="center">Hi, I'm Hardik Arora👋</h1>
 <p align="center">
@@ -28,7 +27,6 @@ I thrive at the intersection of curiosity, innovation, and purpose-driven develo
 ---
 
 ## 🌟 My Projects
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Building+for+impact...;Solving+real+world+problems...;Always+learning+and+growing!" alt="Typing SVG" />
 </p>
@@ -36,41 +34,39 @@ I thrive at the intersection of curiosity, innovation, and purpose-driven develo
 <table>
   <tr>
     <td align="center">
-      <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="100" alt="E-commerce GIF" /><br>
+      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100" alt="E-commerce GIF" /><br>
       <b>🛒 E-commerce Clothing Website</b><br>
       <sub>Modern, scalable platform for seamless shopping.</sub>
     </td>
     <td align="center">
-      <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100" alt="AI GIF" /><br>
+      <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100" alt="AI GIF" /><br>
       <b>🤖 Visionary AI</b><br>
       <sub>Smart assistant for intuitive, human-centric experiences.</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://media.giphy.com/media/1kkxWqT5nvLXupUTwK/giphy.gif" width="100" alt="Chess GIF" /><br>
+      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100" alt="Chess GIF" /><br>
       <b>♟️ Chess Playing Platform</b><br>
       <sub>Dynamic pairing and real-time play for chess lovers.</sub>
     </td>
-    <td align="center">
-      <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" alt="Networking GIF" /><br>
-      <b>🌐 Alumni-Student Networking Portal</b><br>
-      <sub>Bridging connections, mentorship, and opportunities.</sub>
-    </td>
   </tr>
 </table>
+
+
 
 ---
 
 ## 🧭 Skills Snapshot
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-%F0%9F%92%BB-blue?style=for-the-badge" alt="Frontend">
-  <img src="https://img.shields.io/badge/Backend-%F0%9F%94%A5-green?style=for-the-badge" alt="Backend">
-  <img src="https://img.shields.io/badge/Database-%F0%9F%93%81-orange?style=for-the-badge" alt="Database">
-  <img src="https://img.shields.io/badge/Problem%20Solving-%F0%9F%A7%AA-purple?style=for-the-badge" alt="Problem Solving">
-  <img src="https://img.shields.io/badge/Soft%20Skills-%F0%9F%92%AA-yellow?style=for-the-badge" alt="Soft Skills">
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Frontend-%F0%9F%92%BB-blue?style=for-the-badge&logo=html5&logoColor=white" style="width: 170px; height: 40px;" />
+  <img src="https://img.shields.io/badge/Backend-%F0%9F%94%A5-green?style=for-the-badge&logo=node.js&logoColor=white" style="width: 170px; height: 40px;" />
+  <img src="https://img.shields.io/badge/Database-%F0%9F%93%81-orange?style=for-the-badge&logo=mongodb&logoColor=white" style="width: 170px; height: 40px;" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-%F0%9F%A7%AA-purple?style=for-the-badge&logo=leetcode&logoColor=white" style="width: 170px; height: 40px;" />
+  <img src="https://img.shields.io/badge/Soft%20Skills-%F0%9F%92%AA-yellow?style=for-the-badge&logo=googlechat&logoColor=white" style="width: 170px; height: 40px;" />
+</div>
+
 
 ---
 
@@ -102,26 +98,24 @@ I thrive at the intersection of curiosity, innovation, and purpose-driven develo
 
 ## 🤝 Let's Connect
 
-<p align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" />
+<div align="center"> 
+  <a href="mailto:hardikaroraj@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" style="width: 150px; height: 40px;">
   </a>
-  <a href="https://www.linkedin.com/in/yourprofile/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/hardikarorah" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="width: 150px; height: 40px;">
   </a>
-  <a href="https://your-portfolio.com/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=firefox-browser" alt="Portfolio" />
+  <a href="https://leetcode.com/u/Hardikarora0843" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" style="width: 150px; height: 40px;">
   </a>
-  <a href="https://twitter.com/yourprofile">
-    <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" alt="Twitter" />
+  <a href="https://www.hackerrank.com/profile/hardikaroraj" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" style="width: 150px; height: 40px;">
   </a>
-  <a href="https://dev.to/yourprofile">
-    <img src="https://img.shields.io/badge/DEV.Blog-Read-black?style=for-the-badge&logo=dev.to" alt="DEV Blog" />
-  </a>
-</p>
+</div>
+
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80" alt="Curious Developer" />
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180" alt="Curious Developer" />
 </p>
