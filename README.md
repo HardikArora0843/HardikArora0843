@@ -1,7 +1,8 @@
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="340" alt="Anime Developer GIF" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" alt="Energetic Developer GIF" />
 </p>
+
 
 <h1 align="center">Hi, I'm Hardik Arora👋</h1>
 <p align="center">
