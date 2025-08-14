@@ -35,9 +35,21 @@ I thrive at the intersection of curiosity, innovation, and purpose-driven develo
 <table>
   <tr>
     <td align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" alt="CodeForge GIF" /><br>
+      <b>💻 CodeForge</b><br>
+      <sub>Next-gen coding platform with AI-powered features.</sub>
+    </td>
+    <td align="center">
       <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100" alt="E-commerce GIF" /><br>
-      <b>🛒 E-commerce Clothing Website</b><br>
-      <sub>Modern, scalable platform for seamless shopping.</sub>
+      <b>🛒 EcomProject</b><br>
+      <sub>Modern, scalable E-commerce Clothing Website for seamless shopping.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100" alt="Portfolio GIF" /><br>
+      <b>🌟 Portfolio</b><br>
+      <sub>Personal portfolio showcasing projects and skills.</sub>
     </td>
     <td align="center">
       <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100" alt="AI GIF" /><br>
@@ -53,6 +65,7 @@ I thrive at the intersection of curiosity, innovation, and purpose-driven develo
     </td>
   </tr>
 </table>
+
 
 
 
